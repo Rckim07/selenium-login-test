@@ -59,6 +59,10 @@ To generate Allure report:
 - Make sure your Chrome and ChromeDriver versions match.
 - Allure requires Java to be installed and JAVA_HOME set properly.
 
+## Author
+
+This project was created for demonstration and training purposes by Nguyen Linh.
+
 ## License
 
 This project is for educational and demo purposes.
