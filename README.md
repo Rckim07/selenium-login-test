@@ -5,17 +5,14 @@ It tests login functionality on the saucedemo.com demo website.
 
 ## Project Structure
 
-test login/
-│
+test_login/
 ├── pages/
-│   └── login_page.py           # Page Object for the login page
-│
+│   └── login_page.py  # Page Object for the login page
 ├── tests/
-│   └── test_login.py           # Contains 10 test cases for login
-│
-├── conftest.py                 # Pytest fixture to initialize WebDriver
-├── requirements.txt            # List of required packages
-└── README.md                   # Project overview and usage
+│   └── test_login.py  # Contains 10 test cases for login
+├── conftest.py        # Pytest fixture to initialize WebDriver
+├── requirements.txt   # List of required packages
+└── README.md          # Project overview and usage
 
 ## Installation
 
